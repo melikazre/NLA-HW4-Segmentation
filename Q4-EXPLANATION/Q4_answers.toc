@@ -1,0 +1,16 @@
+\contentsline {section}{\numberline {1}گام ۲ --- ماتریس تشابه: تقارن (پرسش ۱-الف)}{2}{section.1}%
+\contentsline {section}{\numberline {2}گام ۳ --- لاپلاسین نرمال‌شده (پرسش ۲)}{3}{section.2}%
+\contentsline {subsection}{\numberline {2.1}الف) تقارن $L_{\mathrm {sym}}$}{3}{subsection.2.1}%
+\contentsline {subsection}{\numberline {2.2}ب) حقیقی بودن طیف و قرارگیری در بازه‌ی $[0,2]$}{3}{subsection.2.2}%
+\contentsline {subsection}{\numberline {2.3}ج) کوچک‌ترین مقدار ویژه‌ی صفر و بردار ویژه‌ی بدیهی}{4}{subsection.2.3}%
+\contentsline {subsection}{\numberline {2.4}د) تفسیر: ارتباط با کیفیت «برش» گراف}{4}{subsection.2.4}%
+\contentsline {section}{\numberline {3}گام ۴ --- روش حذف (پرسش ۳)}{5}{section.3}%
+\contentsline {section}{\numberline {4}گام ۴ --- تعامد و تکرار حذف (پرسش ۴)}{6}{section.4}%
+\contentsline {subsection}{\numberline {4.1}الف) تعامد بردارهای ویژه‌ی ماتریس متقارن}{6}{subsection.4.1}%
+\contentsline {subsection}{\numberline {4.2}ب) چرا تصویرگیری باید در هر تکرار تکرار شود؟}{6}{subsection.4.2}%
+\contentsline {section}{\numberline {5}گام ۵ --- تحلیل هزینه‌ی محاسباتی (پرسش ۵-ج)}{8}{section.5}%
+\contentsline {section}{\numberline {6}گام ۶ --- تحلیل نتایج قطعه‌بندی (پرسش ۶)}{9}{section.6}%
+\contentsline {section}{\numberline {7}پرسش ۷ --- الگوریتم لانتسوش (Lanczos)}{10}{section.7}%
+\contentsline {subsection}{\numberline {7.1}ایده‌ی کلی}{10}{subsection.7.1}%
+\contentsline {subsection}{\numberline {7.2}بازگشت سه‌جمله‌ای}{10}{subsection.7.2}%
+\contentsline {subsection}{\numberline {7.3}مزیت نسبت به روش‌های قبلی}{10}{subsection.7.3}%
